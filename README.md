@@ -7,7 +7,7 @@
 
 ## Dataset
 
-The dataset used in this project consists of Snappfood customer comments for each order. The dataset has been labeled with two classes: Positive, Negative. The dataset was attached to this repository.
+The dataset used in this project consists of Snappfood customer comments for each order. The dataset has been labeled with two classes: Happy, Sad. The dataset was attached to this repository.
 
 
 ## Model
