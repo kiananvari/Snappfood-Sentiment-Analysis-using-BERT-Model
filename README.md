@@ -20,10 +20,9 @@ Transformers 4.3+
 ## Documentation
 
 You can see the description of the implementation method in the following file:
-[Click Me](https://linktodocumentation)
-
+[Click Me](https://github.com/kiananvari/Snappfood-Sentiment-Analysis-using-BERT-Model/raw/main/Documentation.pdf)
 
 ## Results
 
-[Documentation](https://linktodocumentation)
+![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results.png)
 
