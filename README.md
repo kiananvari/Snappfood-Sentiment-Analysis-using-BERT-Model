@@ -10,7 +10,7 @@
 The dataset used in this project consists of Snappfood customer comments for each order. The dataset has been labeled with two classes: Positive, Negative. The dataset was attached to this repository.
 
 
-# Model
+## Model
 The pre-trained ParsBERT model has been fine-tuned on the Snappfood customer comments dataset using the PyTorch framework. The fine-tuned model has achieved an F1-score of 92 on the evaluation set. The model has been trained to classify customer comments into three classes: Positive, Negative, and Neutral.
 
 ## Requirements
@@ -24,5 +24,5 @@ You can see the description of the implementation method in the following file:
 
 ## Results
 
-![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results.png)
+![App Screenshot](https://github.com/kiananvari/Snappfood-Sentiment-Analysis-using-BERT-Model/blob/main/Results.png)
 
